@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Breaking Bad
+* Juego de Tronos
+* Dark
+* La Casa de Papel
